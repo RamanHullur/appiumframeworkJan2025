@@ -34,7 +34,7 @@ libimobiledevice -v
 
 https://inspector.appiumpro.com
 
-—————— 
+ 
 If driver has rpm installation issue: Encountered an error when installing package: npm command 'install --save-dev --no-progress --no-audit --omit=peer --save-exact --global-style --no-package-lock appium-uiautomator2-driver --json' failed with code 1.
 
 
